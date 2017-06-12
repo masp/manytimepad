@@ -92,6 +92,7 @@ print(xord)
 
 for xmsg in xord:
     for i in range(len(TARGET)):
+        
 
 
 space_msg = []
